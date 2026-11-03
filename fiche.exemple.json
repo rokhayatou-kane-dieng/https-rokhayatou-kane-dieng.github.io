@@ -1,31 +1,37 @@
 {
-  "_aide": "EXEMPLE FICTIF : Marie Exemple, Lumen et La Fournée n'existent pas. Chaque champ est expliqué dans fiche.md.",
   "type": "Person",
-  "nom": "Marie Exemple",
-  "phrase_identite": "Marie Exemple est chargée de marketing digital chez Lumen, éditeur de logiciels pour boulangeries, à Lyon.",
-  "metier": "Chargée de marketing digital",
+  "nom": "Rokhayatou Kane DIENG",
+  "phrase_identite": "Rokhayatou Kane DIENG est Responsable Marketing chez SOBOA à Dakar.",
+  "metier": "Responsable Marketing",
   "employeur": {
-    "nom": "Lumen",
-    "url": "https://lumen.example/",
-    "description": "éditeur de logiciels pour boulangeries"
+    "nom": "SOBOA",
+    "url": "https://soboa.sn"
   },
-  "ville": "Lyon",
-  "domaines": ["Marketing digital", "SEO", "Emailing", "Marketing des artisans"],
-  "ce_que_je_fais": "Chez Lumen, je prépare les campagnes d'emailing et les pages du site qui présentent nos logiciels aux boulangers. Je mesure ce qui fait venir de nouveaux clients, et je réécris ce qui ne marche pas.",
-  "parcours": "Après une licence de communication, je suis le MBA Marketing Digital et Intelligence Artificielle de De Vinci Executive Education, en alternance chez Lumen.",
+  "ville": "Dakar",
+  "domaines": [
+    "Brand Marketing",
+    "Marketing digital",
+    "Communication d'entreprise",
+    "Intelligence artificielle",
+    "Analyse de données",
+    "Gestion de projet"
+  ],
+  "ce_que_je_fais": "En tant que Responsable Marketing, j'élabore les campagnes de communication et de visibilité pour notre portefeuille de marques. Je veille à la cohérence de leur image de la conception jusqu'aux points de vente. J'explore et applique de nouvelles approches digitales et d'IA pour accroître l'impact de nos activations.",
+  "parcours": "Après une formation en communication, j'ai rejoint le MBA Marketing Digital et IA pour me spécialiser dans les technologies d'automatisation.",
   "profils": [
-    { "nom": "LinkedIn", "url": "https://www.linkedin.com/in/marie-exemple-fictive" }
+    {
+      "nom": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rokadi"
+    }
   ],
   "entite_liee": {
-    "type": "CreativeWork",
-    "nom": "La Fournée",
-    "description": "une lettre mensuelle sur le marketing des artisans boulangers",
-    "relation": "autrice",
-    "titre_section": "Ma lettre"
+    "type": "Organization",
+    "nom": "Amicale des cadres de la SOBOA",
+    "relation": "présidente",
+    "titre_section": "Mon projet"
   },
-  "theme": "editorial",
-  "couleur_accent": "#8E2B6E",
+  "theme": "clair",
+  "couleur_accent": "#2952CC",
   "animations": true,
-  "identifiant_github": "marie-exemple-fictive",
-  "fictif": true
+  "identifiant_github": "rokhayatou-kane-dieng"
 }
